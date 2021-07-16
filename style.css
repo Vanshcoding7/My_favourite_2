@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background: linear-gradient(#fc2803 0%, #45fc03 100%);
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #034afc;
+    font-size: 20px;
+    font-family: 'Coming Soon', cursive;
+}
+
+p {
+    font-size: 15px;
+    color: #fc2003;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: white;
+}
+
+.link {
+    color: lightblue;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover {
+    background-color: darkblue;
+}
+#welcome{
+    padding: 70px;
+    text-align: center;
+}
